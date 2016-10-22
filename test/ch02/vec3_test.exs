@@ -1,6 +1,5 @@
 defmodule WeekendTracer.Ch02.Vec3Test do
   use ExUnit.Case
-  doctest WeekendTracer
 
   alias WeekendTracer.Ch02.Vec3
 
